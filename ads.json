@@ -1,1 +1,13 @@
-{}
+{
+    "login_composer": {
+        "projectName": "login_composer",
+        "description": "Login composer project",
+        "type": "community",
+        "author": "brionmario",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/brionmario/agama-labs-gluu-cloud",
+        "githubUri": "https://github.com/brionmario/agama-labs-gluu-cloud",
+        "license": "MIT",
+        "lastUpdated": "1685679366918"
+    }
+}
