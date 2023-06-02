@@ -1,2 +1,1 @@
-# experimental-gluu-cloud
-Play-around with Agama Lab Gluu Cloud
+### Agama Project Folder
